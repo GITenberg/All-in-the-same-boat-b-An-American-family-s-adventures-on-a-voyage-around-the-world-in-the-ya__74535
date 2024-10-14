@@ -1,0 +1,39 @@
+_repo: All-in-the-same-boat-b-An-American-family-s-adventures-on-a-voyage-around-the-world-in-the-ya__74535
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Reynolds, Earle L.
+    birthdate: 1910
+    deathdate: 1998
+    gutenberg_agent_id: '55224'
+    url: http://www.gutenberg.org/2009/agents/55224
+    wikipedia: https://en.wikipedia.org/wiki/Earle_L._Reynolds
+  - agent_name: Reynolds, Barbara (Barbara Leonard)
+    alias: Reynolds, Barbara Leonard
+    birthdate: 1915
+    deathdate: 1990
+    gutenberg_agent_id: '55295'
+    url: http://www.gutenberg.org/2009/agents/55295
+    wikipedia: https://en.wikipedia.org/wiki/Barbara_Leonard_Reynolds
+description: ''
+gutenberg_issued: '2024-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74535'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015004812999
+pgterms:marc905: 20200701054840reynolds
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Richard Tonsing, Brian Wilson, Tim Lindell, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bDavid McKay Company, Inc., $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'All in the same boat : $b An American family''s adventures on a voyage around
+  the world in the yacht Phoenix'
+url: http://www.gutenberg.org/ebooks/74535
